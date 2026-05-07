@@ -2,9 +2,11 @@
 
 ## Cursor — https://cursor.sh/pricing — verified 2026-05-07
 
+- Hobby(Free): Free
 - Pro: $20/user/month
 - Pro+: $60/user/month
 - Business: $40/user/month
+- Ultra: $200/user/month
 - Enterprise: Pay-as-you-go pricing
 
 ## Copilot — https://github.com/features/copilot#pricing — verified 2026-05-07
@@ -29,14 +31,6 @@
 - Business: $20/user/month
 - Enterprise: Custom pricing
 
-## Anthropic API — https:// — verified 2026-05-07
-
-- pay-as-you-go token based.
-
-## OpenAI API — https://openai.com/api/pricing/ — verified 2026-05-07
-
-- pay-as-you-go token based.
-
 ## Gemini — https://gemini.google/subscriptions/ — verified 2026-05-07
 
 - Plus: $4.99/user/month
@@ -49,3 +43,11 @@
 - Max: $200/user/month
 - Teams: $40/user/month
 - Enterprise: Custom pricing
+
+## Anthropic API — https:// — verified 2026-05-07
+
+- pay-as-you-go token based.
+
+## OpenAI API — https://openai.com/api/pricing/ — verified 2026-05-07
+
+- pay-as-you-go token based.
