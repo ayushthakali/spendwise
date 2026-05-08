@@ -11,6 +11,7 @@
 
 ## Copilot — https://github.com/features/copilot#pricing — verified 2026-05-07
 
+- Free: $0
 - Pro: $10/user/month
 - Pro+: $39/user/month
 - Business: $19/user/month
@@ -18,13 +19,16 @@
 
 ## Claude — https://claude.ai/upgrade — verified 2026-05-07
 
+- Free: $0
 - Pro: $17/user/month
 - Max: $100/user/month
 - Team(Standard): $20/user/month
+- Team(Premium): $100/user/month
 - Enterprise: Pay-as-you-go pricing
 
 ## ChatGpt — https://chatgpt.com/pricing/ — verified 2026-05-07
 
+- Free: $0
 - Go: $8/user/month
 - Plus: $20/user/month
 - Pro: $100/user/month
@@ -33,6 +37,7 @@
 
 ## Gemini — https://gemini.google/subscriptions/ — verified 2026-05-07
 
+- Free: $0
 - Plus: $4.99/user/month
 - Pro: $19.99/user/month
 - Ultra: $249.99/user/month

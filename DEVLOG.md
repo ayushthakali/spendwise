@@ -22,3 +22,26 @@ Blockers / what I'm stuck on:
 Plan for tomorrow:
 
 - Finalize the tool.ts and work on the audit engine.
+
+## Day 2 — 2026-05-08
+
+Hours worked: 2 hrs
+
+What I did:
+
+- Created documentation covering pricing tiers and plan features for all supported AI tools
+- Extracted and normalized comparable plan features across different vendors in more detail than yesterday
+- Merged overlapping feature terminology into generalized feature abstractions for future audit comparisons
+- Completed approximately 80% of `tool.ts`
+
+What I learned:
+
+- Learned different features of tools
+
+Blockers / what I'm stuck on:
+
+- Same as yesterday
+
+Plan for tomorrow:
+
+- Finalize the tool.ts and work on the audit engine.
