@@ -292,5 +292,5 @@ export const Tools: Tool[] = [
   //   color: "#10a37f",
   //   plans: ["Pay-as-you-go", "Committed use"],
   //   builtFor: ["coding", "data", "research", "mixed"],
-  // },
+  // },2
 ];
