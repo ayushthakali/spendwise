@@ -5,7 +5,7 @@
 - Hobby(Free): Free
 - Pro: $20/user/month
 - Pro+: $60/user/month
-- Business: $40/user/month
+- Teams: $40/user/month
 - Ultra: $200/user/month
 - Enterprise: Pay-as-you-go pricing
 
@@ -24,7 +24,7 @@
 - Max: $100/user/month
 - Team(Standard): $20/user/month
 - Team(Premium): $100/user/month
-- Enterprise: Pay-as-you-go pricing
+- Enterprise: $20/user/month
 
 ## ChatGpt — https://chatgpt.com/pricing/ — verified 2026-05-07
 
